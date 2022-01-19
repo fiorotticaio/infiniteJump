@@ -1,0 +1,1 @@
+export default window.Phaser // window.Phaser tem todo o frameword do phaser 3 (podemos fazer isso gracas aquele script no index.html)

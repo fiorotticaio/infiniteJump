@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "module": "es6",
+        "target": "es6"
+    }
+}
+// configura a manipulacao do javascript no VS code
+    
